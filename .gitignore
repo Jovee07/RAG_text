@@ -22,3 +22,8 @@ venv/
 *.pkl
 **/data/index/
 **/data/processed/
+*.py
+*.ipynb
+*.json
+*.txt
+*.pdf

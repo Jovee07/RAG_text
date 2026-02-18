@@ -1,0 +1,10 @@
+openai
+python-dotenv
+tiktoken
+numpy
+faiss-cpu
+tqdm
+pypdf
+fastapi
+uvicorn[standard]
+pydantic
